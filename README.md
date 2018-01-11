@@ -1,2 +1,2 @@
 # expressTestApp
-Boilerplate code for an express.js application.
+Boilerplate code for an express.js applications.
